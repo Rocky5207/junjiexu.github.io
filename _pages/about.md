@@ -17,7 +17,7 @@ My current research interests focus on deep reinforcement learning for networkin
 1. **徐俊杰**, 李斌, 杨敬松. ["禁飞区约束下的无人机可重构智能表面辅助通信网络性能优化"](https://jeit.ac.cn/article/doi/10.11999/JEIT250681), **电子与信息学报**, 2025. (CCF-T1, 中文领军期刊)
 2. **徐俊杰**, 李斌, 杨冬东, 鲍子毓, 沙忠谭.  **一种针对空中 RIS 姿态变化的通信网络优化方法**,  
 中国发明专利, **CN202510475283.3**, 2025.
-3. **J. Xu**, B. Li, Y. Liu, R. Zhang, D. Yang, D. Niyato. ["HCLN: A Hierarchical Collaborative Learning Network for UAV-STAR-RIS-Assisted Wireless Communications"], **AAAI 2026 Workshop on Machine Learning for Wireless Communication and Networks**, 2026. (CCF-A)
+3. **J. Xu**, B. Li, Y. Liu, R. Zhang, D. Yang, D. Niyato. "HCLN: A Hierarchical Collaborative Learning Network for UAV-STAR-RIS-Assisted Wireless Communications", **AAAI 2026 Workshop on Machine Learning for Wireless Communication and Networks**, 2026. (CCF-A)
 4. One first-author paper titled **HCLF: A Hierarchical Collaborative Learning Framework for Aerial STAR-RIS-Assisted Wireless Communications** has has been submitted to **IEEE TCCN**. (IF: 7.0, An1)
 
 
