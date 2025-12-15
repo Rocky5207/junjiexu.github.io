@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am currently a third-year undergraduate student at the University of Information Science and Technology of China (Nanjing University of Information Science and Technology, NUIST), WATford College, under the supervision of [Prof. Bin Li](https://scholar.google.com/citations?user=HsR0Hr8AAAAJ&hl=zh-CN). In addition, I am a visiting scholar at Nanyang Technological University (NTU), Singapore, working with [Prof. Dusit Niyato] (President’s Chair Professor, FIEEE)(https://personal.ntu.edu.sg/dniyato/).
+Hi! I am currently a third-year undergraduate student at the University of Information Science and Technology of China (Nanjing University of Information Science and Technology, NUIST), WATford College, under the supervision of [Prof. Bin Li](https://scholar.google.com/citations?user=HsR0Hr8AAAAJ&hl=zh-CN). In addition, I am a visiting scholar at Nanyang Technological University (NTU), Singapore, working with [Prof. Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (President’s Chair Professor, FIEEE).
 
 My current research interests focus on the application of deep reinforcement learning for networking, world model–enhanced networking, large language model augmented networking, and reconfigurable intelligent surfaces.
 
