@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zipai.png"
   name             : "Junjie Xu"
   pronouns         : # example: "she/her"  
   bio              : "Third-year undergraduate student"
   location         : "Nanjing, China"
   employer         : "Nanjing University of Information Science and Technology"
-  uri              : # URL
+  uri              : https://rocky5207.github.io/junjiexu.github.io/# URL
   email            : "202383890027@nuist.edu.cn" 
 
   # Academic websites
