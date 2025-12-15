@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi! I am currently a third-year undergraduate student majoring in Internet of Things Engineering in a dual-degree program between Nanjing University of Information Science and Technology (NUIST), China, and South East Technological University (SETU), Ireland, under the supervision of [Prof. Bin Li](https://scholar.google.com/citations?user=HsR0Hr8AAAAJ&hl=zh-CN). In addition, I am a **visiting scholar** at Nanyang Technological University (NTU), Singapore, working with [Prof. Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (President’s Chair Professor, FIEEE).
 
-I am ranked **1st** in my major and **1st** in the comprehensive evaluation. I have passed both the **CET-4 & CET-6**. At **NTU**, I received an **A+ grade** in the **Data Science and Artificial Intelligence** course.
+I am ranked **1st** in my major and **1st** in the comprehensive evaluation. I have passed both the CET-4 & CET-6. At NTU, I received an **A+ grade** in the **Data Science and Artificial Intelligence** course.
 
 My current research interests focus on deep reinforcement learning for networking, world model-enhanced networking, large language model augmented networking, and reconfigurable intelligent surfaces.
 
