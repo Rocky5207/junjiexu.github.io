@@ -27,8 +27,8 @@ My current research interests focus on deep reinforcement learning for networkin
 3. **IEEE VTC 2025-Spring** — IEEE Vehicular Technology Conference *(Reviewer)*
 
 ## Honors & Awards
-1. **Jiangsu Provincial Outstanding Undergraduate Overseas Study Scholarship**
-2. **President’s Scholarship**
+1. **Jiangsu Provincial Outstanding Undergraduate Overseas Study Scholarship** (Top **0.02%** province-wide)
+2. **President’s Scholarship** (Top **0.2%** of the university)
 3. **National Undergraduate Innovation and Entrepreneurship Training Program**
 4. Provincial Undergraduate Innovation Training Program
 5. Outstanding Student Model
