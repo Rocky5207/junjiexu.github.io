@@ -11,14 +11,7 @@ Hi! I am currently a third-year undergraduate student in a dual-degree program b
 My current research interests focus on the application of deep reinforcement learning for networking, world model–enhanced networking, large language model augmented networking, and reconfigurable intelligent surfaces.
 
 
----
-permalink: /
-title: "Publications"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
+## Publications
 1. **徐俊杰**, 李斌, 杨敬松. ["禁飞区约束下的无人机可重构智能表面辅助通信网络性能优化"](https://jeit.ac.cn/article/doi/10.11999/JEIT250681), **电子与信息学报**, 2025. (CCF-T1, 中文领军期刊)
 2. **徐俊杰**, 李斌, 杨冬东, 鲍子毓, 沙忠谭.  **一种针对空中 RIS 姿态变化的通信网络优化方法**,  
 中国发明专利, **CN202510475283.3**, 2025.
@@ -26,26 +19,12 @@ redirect_from:
 4. One paper titled **HCLF: A Hierarchical Collaborative Learning Framework for Aerial STAR-RIS-Assisted Wireless Communications** has has been submitted to **IEEE TCCN**. (IF: 7.0, An1)
 
 
----
-permalink: /
-title: "Academic Services"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
+## Academic Services
 1. **WCSP 2025** — IEEE International Conference on Wireless Communications and Signal Processing *(Reviewer)*
 2. **IEEE GLOBECOM 2025**  — IEEE Global Communications Conference *(Reviewer)*
 3. **IEEE VTC 2025-Spring** — IEEE Vehicular Technology Conference *(Reviewer)*
 
----
-permalink: /
-title: "Honors & Awards"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
+## Honors & Awards
 1. **Jiangsu Provincial Outstanding Undergraduate Overseas Study Scholarship**
 2. **President’s Scholarship**, Nanjing University of Information Science and Technology
 3. National Undergraduate Innovation and Entrepreneurship Training Program
