@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Junjie Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Third-year undergraduate student"
+  location         : "Nanjing, China"
+  employer         : "Nanjing University of Information Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "202383890027@nuist.edu.cn" 
 
   # Academic websites
   academia         : # URL
