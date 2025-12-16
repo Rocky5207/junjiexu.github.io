@@ -10,7 +10,11 @@ Hi! I am currently a third-year undergraduate student majoring in Internet of Th
 
 I am ranked **1st** in my major and **1st** in the comprehensive evaluation. I have passed both the CET-4 & CET-6. At NTU, I received an **A+ grade** in the **Data Science and Artificial Intelligence** course.
 
-My current research interests focus on deep reinforcement learning for networking, world model-enhanced networking, large language model augmented networking, and reconfigurable intelligent surfaces.
+My current research interests include:
+- Deep reinforcement learning for networking
+- World model–enhanced networking
+- Large language model (LLM)–augmented networking
+- Reconfigurable intelligent surfaces
 
 
 ## Publications
