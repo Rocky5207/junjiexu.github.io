@@ -41,7 +41,7 @@ My current research interests include:
 8. First-Class University Scholarship
 
 ## Academic Activities
-- **AAAI 2026** — The 40th Annual AAAI Conference on Artificial Intelligence, **Singapore**, **Jan 20–27, 2026**. 🇸🇬 *See you in Singapore!*
+- **AAAI 2026** — The 40th Annual AAAI Conference on Artificial Intelligence, **Singapore**, **Jan 20–27, 2026**. 🎉🎉🎉 *See you in Singapore!*
 - **ICCC 2025** — 14th IEEE/CIC International Conference on Communications in China, **Shanghai, China**, **Aug 10–13, 2025**.
 
 
