@@ -31,7 +31,7 @@ My current research interests include:
 3. **IEEE VTC 2025-Spring** — IEEE Vehicular Technology Conference *(Reviewer)*
 
 ## Honors & Awards
-1. **Jiangsu Provincial Outstanding Undergraduate Overseas Study Scholarship** (Top **0.02%** province-wide)
+1. **Jiangsu Provincial Outstanding Undergraduate Overseas Study Scholarship** (Top **0.02%** of the province)
 2. **President’s Scholarship** (Top **0.2%** of the university)
 3. **National Undergraduate Innovation and Entrepreneurship Training Program**
 4. Provincial Undergraduate Innovation Training Program
@@ -39,6 +39,11 @@ My current research interests include:
 6. Outstanding Student
 7. Outstanding Student Leader
 8. First-Class University Scholarship
+
+## Academic Activities
+- **AAAI 2026** — The 40th Annual AAAI Conference on Artificial Intelligence, **Singapore**, **Jan 20–27, 2026**. 🇸🇬 *See you in Singapore!*
+- **ICCC 2025** — 14th IEEE/CIC International Conference on Communications in China, **Shanghai, China**, **Aug 10–13, 2025**.
+
 
 <div style="text-align:center; margin-top: 1.5rem;">
   <script type="text/javascript" id="mapmyvisitors"
