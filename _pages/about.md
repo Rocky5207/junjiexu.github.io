@@ -33,7 +33,7 @@ My current research interests include:
 ## Honors & Awards
 1. **Jiangsu Provincial Outstanding Undergraduate Overseas Study Scholarship** (Top **0.02%** of the province)
 2. **President’s Scholarship** (Top **0.2%** of the university)
-3. **National Undergraduate Innovation and Entrepreneurship Training Program**
+3. **National Undergraduate Entrepreneurship Training Program**
 4. Provincial Undergraduate Innovation Training Program
 5. Outstanding Student Model
 6. Outstanding Student
