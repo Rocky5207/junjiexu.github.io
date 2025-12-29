@@ -22,8 +22,6 @@ My current research interests include:
 2. **徐俊杰**, 李斌, 杨冬东, 鲍子毓, 沙忠谭.  ["一种针对空中 RIS 姿态变化的通信网络优化方法"](https://kns.cnki.net/kcms2/article/abstract?v=zYSMMY9t1seywX1h39lt7BztcDISxZWLdHdB9Oq01P842GbBPrbnvipTWN_FF-7djqFV1xB2i_Qauqo1LyZEv9KXoN8pRxbnYTOPXr0-NFtBna4ij8PxKS157VR1Uqe3xmmONgo7GSAF4gRHnEBIW9yCDDtaxPERz4Gj_mkTbt3Mx3kZPrAXcg==&uniplatform=NZKPT&language=CHS), 中国发明专利, **CN202510475283.3**, 2025.
 3. **J. Xu**, B. Li, Y. Liu, R. Zhang, D. Yang, D. Niyato. "HCLN: A Hierarchical Collaborative Learning Network for UAV-STAR-RIS-Assisted Wireless Communications", **AAAI 2026 Workshop on Machine Learning for Wireless Communication and Networks**, 2026. (CCF-A)
 4. One first-author paper titled **HCLF: A Hierarchical Collaborative Learning Framework for Aerial STAR-RIS-Assisted Wireless Communications** has been submitted to **IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)**. (IF: 7.0, SCI Q1, Top-tier)
-5. One paper titled **Towards Interpretable Seizure Detection: A Physics-Informed Residual Polynomial Network Framework for Electroencephalography** has been submitted to **Knowledge-Based Systems**. (IF: 7.6, SCI Q1, Top-tier)
-
 
 ## Academic Services
 1. **WCSP 2025** — IEEE International Conference on Wireless Communications and Signal Processing *(Reviewer)*
